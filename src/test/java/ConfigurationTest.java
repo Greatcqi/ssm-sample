@@ -9,7 +9,9 @@ import static org.junit.Assert.assertNotNull;
 import static org.junit.Assert.assertTrue;
 
 /**
- * Created by XieChen on 2017/2/12.
+ *
+ * @author XieChen
+ * @version 1.0
  */
 public class ConfigurationTest {
     private final String dbPropertiesFileName = "db.properties";

@@ -6,7 +6,9 @@ import javax.xml.rpc.ServiceException;
 import java.net.MalformedURLException;
 
 /**
- * Created by XieChen on 2017/2/13.
+ *
+ * @author XieChen
+ * @version 1.0
  */
 public class WebServiceClientTest {
     private final String userName = "hwzhhjypt";

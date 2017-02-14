@@ -1,7 +1,10 @@
 package com.greatcqi.testframework.model.basicInfo;
 
 /**
- * Created by XieChen on 2017/2/12.
+ * User Info model.
+ * Created on 2017/2/12.
+ * @author XieChen
+ * @version  1.0
  */
 public class UserInfoModel {
     private int id;

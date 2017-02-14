@@ -7,7 +7,10 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
 /**
- * Created by XieChen on 2017/2/12.
+ * Implementation of UserInfoService.
+ * Created on 2017/2/12.
+ * @author XieChen
+ * @version 1.0
  */
 @Service
 public class UserInfoServiceImpl implements UserInfoService {
@@ -24,6 +27,5 @@ public class UserInfoServiceImpl implements UserInfoService {
 
     public void delete(int id) {
         userInfoMapper.delete(id);
-        return;
     }
 }

@@ -9,7 +9,9 @@ import org.springframework.context.support.ClassPathXmlApplicationContext;
 import static org.junit.Assert.*;
 
 /**
- * Created by XieChen on 2017/2/12.
+ *
+ * @author XieChen
+ * @version 1.0
  */
 public class UserServiceTest {
     private UserInfoService service = null;
